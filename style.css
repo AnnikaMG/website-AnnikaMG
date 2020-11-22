@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(189, 189, 189);  
+    background-color: rgb(165, 165, 165);  
     
     color: #350842;
     font: Century, Times, Serif;
@@ -87,6 +87,11 @@ nav li a:hover {
 
 nav li a.active {
     background-color: rgb(80, 80, 80);
+}
+
+.speciaal-navigatie {
+    padding: 0px;
+    margin: 0px;
 }
 
 
