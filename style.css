@@ -67,10 +67,10 @@ a:hover {
 }
 
 .lijst {
-    margin-right: 200px;
+    margin-right: 0px;
     margin-left:10px;
-    margin-bottom: 35px;
-    float: left;
+    margin-bottom: 80px;
+    float: right;
 }
 
 
