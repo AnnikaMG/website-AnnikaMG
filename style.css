@@ -116,6 +116,30 @@ nav li a.active {
     margin: 0px;
 }
 
+/* animaties */
 
+@keyframes veranderKleur {
+    0% {
+        color :black;
+    }
+    33% {
+        color :rgb(100, 100, 100);
+    }
+    66% {
+        color :white;
+    }
+    90% {
+        color :purple;
+    }
+    100% {
+        color :black;
+    }
+}
+
+.animatie {
+    animation-name: veranderKleur;
+    animation-duration: 23s;
+    animation-iteration-count: infinite;
+}
 
 
